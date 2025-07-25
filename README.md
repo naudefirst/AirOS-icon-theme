@@ -24,8 +24,4 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
 ![bold](bold-size.png?raw=true)                                              |
 
-## view
-![view](View-1.png?raw=true)
-![view](View-2.png?raw=true)
-![view](View-3.png?raw=true)
-![view](View-4.png?raw=true)
+
